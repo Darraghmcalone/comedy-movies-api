@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Darraghmcalone/comedy-movies-api#readme",
   "dependencies": {
-    "apollo-server": "^2.10.1",
+    "apollo-server": "^2.14.2",
     "graphql": "^14.6.0"
   }
 }
